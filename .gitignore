@@ -54,3 +54,6 @@ roslyn/
 *.editorconfig
 *.cache
 hs.util/obj/project.assets.json
+.vs/Hs/DesignTimeBuild/.dtbcache.v2
+.vs/ProjectEvaluation/hs.metadata.v5.1
+.vs/ProjectEvaluation/hs.projects.v5.1

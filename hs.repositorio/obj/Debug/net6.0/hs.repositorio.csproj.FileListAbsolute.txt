@@ -1,0 +1,15 @@
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.repositorio\bin\Debug\net6.0\hs.repositorio.deps.json
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.repositorio\bin\Debug\net6.0\hs.repositorio.dll
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.repositorio\bin\Debug\net6.0\hs.repositorio.pdb
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.repositorio\obj\Debug\net6.0\hs.repositorio.csproj.AssemblyReference.cache
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.repositorio\obj\Debug\net6.0\hs.repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.repositorio\obj\Debug\net6.0\hs.repositorio.AssemblyInfoInputs.cache
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.repositorio\obj\Debug\net6.0\hs.repositorio.AssemblyInfo.cs
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.repositorio\obj\Debug\net6.0\hs.repositorio.csproj.CoreCompileInputs.cache
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.repositorio\obj\Debug\net6.0\hs.repositorio.dll
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.repositorio\obj\Debug\net6.0\refint\hs.repositorio.dll
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.repositorio\obj\Debug\net6.0\hs.repositorio.pdb
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.repositorio\obj\Debug\net6.0\ref\hs.repositorio.dll
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.repositorio\bin\Debug\net6.0\hs.domain.dll
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.repositorio\bin\Debug\net6.0\hs.domain.pdb
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.repositorio\obj\Debug\net6.0\hs.repositorio.csproj.CopyComplete

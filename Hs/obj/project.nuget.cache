@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hamf86ihY1du1mGi7xk4qs2s5beHoXnXC5TGVAmjEQkaTKOVChGUC54FjHXO71m28cGFiBLIFRi5g0HxPq+SKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\Hs\\hs.forms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micaelfr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\micaelfr\\.nuget\\packages\\selenium.webdriver\\4.8.2\\selenium.webdriver.4.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}

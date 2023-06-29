@@ -1,0 +1,12 @@
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.entidades\bin\Debug\net6.0\hs.entidades.deps.json
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.entidades\bin\Debug\net6.0\hs.entidades.dll
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.entidades\bin\Debug\net6.0\hs.entidades.pdb
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.entidades\obj\Debug\net6.0\hs.entidades.csproj.AssemblyReference.cache
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.entidades\obj\Debug\net6.0\hs.entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.entidades\obj\Debug\net6.0\hs.entidades.AssemblyInfoInputs.cache
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.entidades\obj\Debug\net6.0\hs.entidades.AssemblyInfo.cs
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.entidades\obj\Debug\net6.0\hs.entidades.csproj.CoreCompileInputs.cache
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.entidades\obj\Debug\net6.0\hs.entidades.dll
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.entidades\obj\Debug\net6.0\refint\hs.entidades.dll
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.entidades\obj\Debug\net6.0\hs.entidades.pdb
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.entidades\obj\Debug\net6.0\ref\hs.entidades.dll

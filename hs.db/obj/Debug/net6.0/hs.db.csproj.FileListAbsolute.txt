@@ -1,0 +1,15 @@
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.db\bin\Debug\net6.0\hs.db.deps.json
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.db\bin\Debug\net6.0\hs.db.dll
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.db\bin\Debug\net6.0\hs.db.pdb
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.db\bin\Debug\net6.0\hs.entidades.dll
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.db\bin\Debug\net6.0\hs.entidades.pdb
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.db\obj\Debug\net6.0\hs.db.csproj.AssemblyReference.cache
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.db\obj\Debug\net6.0\hs.db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.db\obj\Debug\net6.0\hs.db.AssemblyInfoInputs.cache
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.db\obj\Debug\net6.0\hs.db.AssemblyInfo.cs
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.db\obj\Debug\net6.0\hs.db.csproj.CoreCompileInputs.cache
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.db\obj\Debug\net6.0\hs.db.csproj.CopyComplete
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.db\obj\Debug\net6.0\hs.db.dll
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.db\obj\Debug\net6.0\refint\hs.db.dll
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.db\obj\Debug\net6.0\hs.db.pdb
+C:\Users\micaelfr\OneDrive - Globo Comunicação e Participações sa\Selenium\Hs\hs.db\obj\Debug\net6.0\ref\hs.db.dll

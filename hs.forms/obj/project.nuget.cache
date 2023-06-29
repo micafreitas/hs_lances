@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/hEsGvh6+gNCf7tBq0BIEQsmyy5uj4oYfFB9gC7N7s4PkHa20+ZpIOK/VkmJgVG2AtmQcb7/AVm0tkQpoJ/4Yw==",
+  "dgSpecHash": "BdgHCdGQCprMl/OH9qDIZl8neYRYIig2dmWmQiYb85JQfJuNH25RPWf4W3E+PeLFXDT0tGFIwrzbiE4XyloQdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.forms\\hs.forms.csproj",
+  "projectFilePath": "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.forms\\hs.forms.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micaelfr\\.nuget\\packages\\flurl\\3.0.7\\flurl.3.0.7.nupkg.sha512",
     "C:\\Users\\micaelfr\\.nuget\\packages\\linqkit.core\\1.2.4\\linqkit.core.1.2.4.nupkg.sha512",

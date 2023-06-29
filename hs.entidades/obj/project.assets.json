@@ -690,11 +690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.entidades\\hs.entidades.csproj",
+      "projectUniqueName": "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.entidades\\hs.entidades.csproj",
       "projectName": "hs.entidades",
-      "projectPath": "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.entidades\\hs.entidades.csproj",
+      "projectPath": "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.entidades\\hs.entidades.csproj",
       "packagesPath": "C:\\Users\\micaelfr\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.entidades\\obj\\",
+      "outputPath": "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.entidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

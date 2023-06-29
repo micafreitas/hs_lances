@@ -1301,11 +1301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.api\\hs.api.csproj",
+      "projectUniqueName": "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.api\\hs.api.csproj",
       "projectName": "hs.api",
-      "projectPath": "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.api\\hs.api.csproj",
+      "projectPath": "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.api\\hs.api.csproj",
       "packagesPath": "C:\\Users\\micaelfr\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.api\\obj\\",
+      "outputPath": "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1325,20 +1325,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.domain\\hs.domain.csproj": {
-              "projectPath": "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.domain\\hs.domain.csproj"
+            "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.domain\\hs.domain.csproj": {
+              "projectPath": "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.domain\\hs.domain.csproj"
             },
-            "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.entidades\\hs.entidades.csproj": {
-              "projectPath": "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.entidades\\hs.entidades.csproj"
+            "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.entidades\\hs.entidades.csproj": {
+              "projectPath": "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.entidades\\hs.entidades.csproj"
             },
-            "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.IoC\\hs.IoC.csproj": {
-              "projectPath": "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.IoC\\hs.IoC.csproj"
+            "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.IoC\\hs.IoC.csproj": {
+              "projectPath": "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.IoC\\hs.IoC.csproj"
             },
-            "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.service\\hs.service.csproj": {
-              "projectPath": "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.service\\hs.service.csproj"
+            "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.service\\hs.service.csproj": {
+              "projectPath": "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.service\\hs.service.csproj"
             },
-            "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.util\\hs.util.csproj": {
-              "projectPath": "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.util\\hs.util.csproj"
+            "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.util\\hs.util.csproj": {
+              "projectPath": "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.util\\hs.util.csproj"
             }
           }
         }

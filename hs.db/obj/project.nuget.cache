@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3xfez9xlw30L+nxGRQe9N0q+J4TkZjgzebgh7SGoooNDh5cgsUfnQ+XCldI6KATMaVvc8CCBsv4/1wPQmLe8TQ==",
+  "dgSpecHash": "K0p4tiNEBAUesEz8UbBaqChZzxPmrWkf1u3HwNbBxsIADm+7AeQP2Sxk7mYqtll2CZhVRnQoHXanDRP3U4SRKQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.db\\hs.db.csproj",
+  "projectFilePath": "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.db\\hs.db.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micaelfr\\.nuget\\packages\\linqkit.core\\1.2.4\\linqkit.core.1.2.4.nupkg.sha512",
     "C:\\Users\\micaelfr\\.nuget\\packages\\linqkit.microsoft.entityframeworkcore\\7.1.4\\linqkit.microsoft.entityframeworkcore.7.1.4.nupkg.sha512",

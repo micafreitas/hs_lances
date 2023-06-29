@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KWfTrhbKldoL7QMiOfJkRNUoJz9aQsvdVQJW2nNBYtcDwBwE9J+ivBHI8WVEyeMN4bpo73+1BK4C+AvS6d03Nw==",
+  "dgSpecHash": "7iw8cUierN3SLHh2fBejYv5O4A/il7c0nF61msIaQngdvlFHrHM/jpB9I5KU8jgbEYMTMNLhvWugrRJSi+K9Xw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\hs_lances\\hs_lances\\hs.domain\\hs.domain.csproj",
+  "projectFilePath": "C:\\Users\\micaelfr\\OneDrive - Globo Comunicação e Participações sa\\Selenium\\Hs\\hs.domain\\hs.domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micaelfr\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "C:\\Users\\micaelfr\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",

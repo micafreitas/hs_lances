@@ -4,6 +4,8 @@ using hs.entidades.Enums;
 using hs.service.Interfaces;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.DevTools;
+using OpenQA.Selenium.Support.UI;
 
 namespace hs.service
 {
@@ -47,17 +49,27 @@ namespace hs.service
 
             IrFramePrincipal();
 
+            var documento = cotaConsorcio.Cliente.Documento;
+            var grupo = cotaConsorcio.Grupo;
+            var cota = cotaConsorcio.Cota;
+
+            //documento = "94054398049";
+            //grupo = "1058";
+            //cota = "0332";
+
             var inputCpfCnpj = driver.FindElement(By.Id("cgc_cpf_cliente"));
-            inputCpfCnpj.SendKeys(cotaConsorcio.Cliente.Documento);
+            inputCpfCnpj.SendKeys(documento);
 
             var inputGrupo = driver.FindElement(By.Id("Grupo"));
-            inputGrupo.SendKeys(cotaConsorcio.Grupo);
+            inputGrupo.SendKeys(grupo);
 
             var inputCota = driver.FindElement(By.Id("Cota"));
-            inputCota.SendKeys(cotaConsorcio.Cota);
+            inputCota.SendKeys(cota);
 
             var btnLocalizar = driver.FindElement(By.Name("Button"));
             btnLocalizar.Click();
+
+            DownloadSegundaViaBoleto(documento, grupo, cota);
 
             // Link Lance Oferta
             var lanceOferta = driver.FindElement(By.LinkText("Lance Oferta"));
@@ -77,10 +89,68 @@ namespace hs.service
                 var btnConfirmaLance = driver.FindElement(By.Id("Confirma"));
                 btnConfirmaLance.Click();
 
+                // DownloadComprovante(documento, grupo, cota);
+
                 IrFramePrincipal();
             }
 
             return _avisoLanceService.BuscarAvisoNaPagina(driver.PageSource);
+        }
+
+        private void DownloadSegundaViaBoleto(string documento, string grupo, string cota)
+        {
+            var _chromeOptions = new ChromeOptions();
+            // https://stackoverflow.com/questions/61798725/save-as-pdf-using-selenium-and-chrome
+
+            var textoSegundaVia = "2ª Via Boleto";
+            var linkSegundaView = driver.FindElement(By.LinkText(textoSegundaVia));
+            linkSegundaView.Click();
+
+            var imgPrint = driver.FindElement(By.XPath("/html/body/form/table[2]/tbody/tr[2]/td[8]/div/a"));
+            imgPrint.Click();
+
+            // Aguardar até que a nova guia seja aberta
+            //WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
+            //wait.Until(ExpectedConditions.NumberOfWindowsToBe(2));
+
+            // Obter a lista de identificadores de janelas
+            var windowHandles = driver.WindowHandles;
+
+            // Alternar para a nova guia (a guia de impressão)
+            driver.SwitchTo().Window(windowHandles[1]);
+
+            // Localizar e clicar no elemento do ícone de download
+            try
+            {
+                IWebElement downloadButton = driver.FindElement(By.Id("downloadButton"));
+                downloadButton.Click();
+            }
+            catch (Exception ex){ }
+
+            // Trocar para tela do boleto
+            //var currentWindowHandle = driver.CurrentWindowHandle;
+            //foreach (var windowHandle in driver.WindowHandles)
+            //{
+            //    if (windowHandle != currentWindowHandle)
+            //    {
+            //        driver.SwitchTo().Window(windowHandle);
+            //        break;
+            //    }
+            //}
+
+            // Salvar boleto
+            var html = driver.PageSource;
+            var btnPrint = driver.FindElement(By.XPath("//*[@id=\"icon\"]/iron-icon"));
+            btnPrint.Click();
+
+            // Voltar para a tela principal
+
+            // Voltar para página anterior
+        }
+
+        private void DownloadComprovante(string documento, string grupo, string cota)
+        {
+            throw new NotImplementedException();
         }
 
         public IList<CarteiraClienteDto> ExtrairDadosRelatorios()

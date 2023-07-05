@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7FB549D5-9A31-4E9F-9491-AD2DF66752A0}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		.gitignore = .gitignore
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hs.service", "hs.service\hs.service.csproj", "{7C0FD82F-6A1D-4425-9A70-D54EEBFCF97D}"
@@ -22,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hs.IoC", "hs.IoC\hs.IoC.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hs.util", "hs.util\hs.util.csproj", "{139B2B36-0E85-42B8-9F69-9F5D9131E6FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hs.api", "hs.api\hs.api.csproj", "{B517107E-2296-4F2B-BBA5-E389C7DEDDD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hs.api", "hs.api\hs.api.csproj", "{B517107E-2296-4F2B-BBA5-E389C7DEDDD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

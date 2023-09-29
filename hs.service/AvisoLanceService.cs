@@ -1,8 +1,6 @@
 ﻿using hs.db.Interfaces;
 using hs.entidades;
 using hs.service.Interfaces;
-using OpenQA.Selenium;
-using System.Linq;
 
 namespace hs.service
 {

@@ -26,11 +26,11 @@ namespace hs.service
 
         public void NavegarPaginaLogin()
         {
-            var currentDirectory = Directory.GetCurrentDirectory();
-            var selenimDir = $@"{currentDirectory}\..\..\..\Selenium";
+            //var currentDirectory = Directory.GetCurrentDirectory();
+            //var selenimDir = $@"{currentDirectory}\..\..\..\Selenium";
 
             if (driver == null)
-                driver = new ChromeDriver(selenimDir);
+                driver = new ChromeDriver();
         }
 
         public void AbrirRelatorioCotas()

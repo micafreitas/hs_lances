@@ -62,6 +62,10 @@ namespace hs.service
                 {
                     try
                     {
+                        var a = "";
+                        if (cota.Cota == "0977")
+                            a = "a";
+
                         var aviso = _portalHsService.EfetuarLance(cota, tipoLance);
                         _registroLanceService.RegistrarLance(chaveApp, competencia, cota, tipoLance, aviso);
                     }

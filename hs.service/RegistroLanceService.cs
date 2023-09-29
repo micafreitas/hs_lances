@@ -26,6 +26,12 @@ namespace hs.service
                 )
                 .ToList();
 
+            foreach (var cota in cotas)
+            {
+                if (cota.Cliente == null)
+                    cota.Cliente = _db.Cliente.Find(cota.ClienteId);
+            }
+
             return cotas;
         }
 

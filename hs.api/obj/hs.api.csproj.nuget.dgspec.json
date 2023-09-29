@@ -61,11 +61,11 @@
           "dependencies": {
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
-              "version": "[1.17.0, )"
+              "version": "[1.19.5, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -266,11 +266,11 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.10, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -422,7 +422,11 @@
           "dependencies": {
             "Selenium.WebDriver": {
               "target": "Package",
-              "version": "[4.8.2, )"
+              "version": "[4.12.4, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[116.0.5845.9600, )"
             }
           },
           "imports": [
